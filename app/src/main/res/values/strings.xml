@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="grade">Final Grade Calculator</string>
+    <string name="description">To calculate the percentage of your final grade please insert your prelim, midterm, and endterm grade.</string>
+    <string name="prelimtext">Prelim Grade :</string>
+    <string name="midtermtext">Midterm Grade :</string>
+    <string name="endtermtext">Endterm Grade :</string>
+    <string name="entergrade">Enter Grade</string>
+    <string name="button">Calculate</string>
+    <string name="txt_compute_result">Showing Result(s)</string>
+    <string name="txt_close">Close</string>
+</resources>
